@@ -1,8 +1,6 @@
 ![GitHub Header Banner](./assets/github-header.jpg)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vkarvatsky/)
-
-[![image](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/karvats/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vkarvatsky/)[![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/karvats/)
 
 <!--
 **VictorKarvatsky/VictorKarvatsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
