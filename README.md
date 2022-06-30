@@ -5,7 +5,9 @@
 <h2 align="center"> I'm a JavaScript Fullstack Developer </h2>
 <h3 align="center">I like to implement complex projects, find elegant solutions, optimize inefficient ones. And I like honey! </h3>
 
+## Последние посты 👀
 
+– [IQ-fighter](https://github.com/OgArustamian/IQ-fighter)
 
 
 <!--
