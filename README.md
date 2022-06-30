@@ -1,5 +1,4 @@
-### Hi there 👋
-https://teletype.in/@life_verstka/github-profile-to-portfolio
+![GitHub Header Banner](./assets/github-header.jpg)
 <!--
 **VictorKarvatsky/VictorKarvatsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
