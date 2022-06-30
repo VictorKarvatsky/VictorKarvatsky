@@ -1,7 +1,7 @@
 ![GitHub Header Banner](./assets/github-header.jpg)
 
-  <h3 align="center"> I'm a JavaScript Fullstack Developer.
-  I like to implement complex projects, find elegant solutions, optimize inefficient ones. And I like honey! </h3>
+  <h2 align="center"> I'm a JavaScript Fullstack Developer.</h2>
+  <h3 align="center">I like to implement complex projects, find elegant solutions, optimize inefficient ones. And I like honey! </h3>
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vkarvatsky/) [![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=9647630404) [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/karvats/)
 
