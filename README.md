@@ -2,8 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vkarvatsky/)
 
-[![Telegram Badge](https://patrolavia.github.io/telegram-badge/follow.png),
-(https://t.me/karvats)]
+[!(https://patrolavia.github.io/telegram-badge/follow.png)](https://t.me/karvats)
 
 <!--
 **VictorKarvatsky/VictorKarvatsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
