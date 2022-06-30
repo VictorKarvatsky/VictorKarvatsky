@@ -3,7 +3,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vkarvatsky/) [![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=9647630404) [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/karvats/)
 
 <h2 align="center"><em> I'm a JavaScript Fullstack Developer </em></h2>
-<h3 align="center"><em> I like to implement complex projects, find elegant solutions, optimize inefficient ones. <br /> And I like honey! </em></h3>
+<h3 align="center"><em> I like to implement complex projects, <br /> find elegant solutions, <br /> optimize inefficient ones. <br /> And I like honey! </em></h3>
 
 ![alt text](./assets/honey.jpg)
 
