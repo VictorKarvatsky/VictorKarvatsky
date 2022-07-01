@@ -1,4 +1,4 @@
-![GitHub Header Banner](./assets/git-header.jpg)
+![GitHub Header Banner](./assets/GitHub-header.jpg)
 
 <h2 align="center">ɪ'ᴍ ᴀ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ꜰᴜʟʟꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h2>
 <h3 align="center">ɪ ʟɪᴋᴇ ᴛᴏ ɪᴍᴘʟᴇᴍᴇɴᴛ ᴄᴏᴍᴘʟᴇx ᴘʀᴏᴊᴇᴄᴛꜱ, ꜰɪɴᴅ ᴇʟᴇɢᴀɴᴛ ꜱᴏʟᴜᴛɪᴏɴꜱ, <br /> ᴏᴘᴛɪᴍɪᴢᴇ ɪɴᴇꜰꜰɪᴄɪᴇɴᴛ ᴏɴᴇꜱ. <br /> <br /> 🄰🄽🄳  🄸  🄻🄸🄺🄴   🄷🄾🄽🄴🅈 ! </h3>
